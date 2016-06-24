@@ -2,7 +2,7 @@
     "room":                     "Crawtis Party",
     "author":                   "Crawti© (plug.dj)",
     "icon":                     "http://i.imgur.com/sVHVk2S.png",
-    "css":                      "https://raw.githubusercontent.com/Crawti/plugdj/master/theme.ccs",
+    "css":                      "https://cdn.bssecure.net/nc-themes/plug-themes/nc331-theme.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
