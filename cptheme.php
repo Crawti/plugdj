@@ -1,8 +1,8 @@
 {
-    "room":                     "Crawtis Party",
-    "author":                   "Crawti",
+    "room":                     "Crawtis Men Party",
+    "author":                   "Crawti Men",
     "icon":                     "http://i.imgur.com/sVHVk2S.png",
-    "css":                      "https://cdn.bssecure.net/nc-themes/plug-themes/nc331-theme.css",
+    "css":                      "https://raw.githubusercontent.com/Crawti/plugdj/master/theme.ccs",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
@@ -27,20 +27,19 @@
         "user":                 "#EEEED1"
     },
     "images": {
-        "background":           "http://i.imgur.com/3bbSwm2.jpg",
+        "background":           null,
         "playback":             "http://i.imgur.com/KyExkDf.png",
         "admin":                "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
         "ambassador":           "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
-        "host":                 "http:\/\/i.imgur.com\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/5vgDTUf.png",
-        "cohost":               "http:\/\/static.wixstatic.com\/media\/e2e8ef_11126b38c9f0479c8a4a53cc271836b5.png",
-        "manager":              "http:\\\\\\\\\\\\\\\\\\\/\\\\\\\\\\\\\\\\\\\/i.imgur.com\\\\\\\\\\\\\\\\\\\/nju931s.png",
-        "bouncer":              "https:\\\\\\\\\/\\\\\\\\\/cdn.radiant.dj\\\\\\\\\/rcs\\\\\\\\\/emotes\\\\\\\\\/img\\\\\\\\\/plugdj\\\\\\\\\/other\\\\\\\\\/woot.png",
-        "rdj":                  "http:\/\/static.wixstatic.com\/media\/e2e8ef_11126b38c9f0479c8a4a53cc271836b5.png",
+        "host":                 "http://i.imgur.com/5vgDTUf.png",
+        "cohost":               "http://static.wixstatic.com/media/e2e8ef_11126b38c9f0479c8a4a53cc271836b5.png",
+        "manager":              "http://i.imgur.com/nju931s.png",
+        "bouncer":              "https://cdn.radiant.dj/rcs/emotes/img/plugdj/other/woot.png",
+        "rdj":                  "http://static.wixstatic.com/media/e2e8ef_11126b38c9f0479c8a4a53cc271836b5.png",
         "subscriber":           null,
         "silversubscriber":     null,
     },
-    "autocomplete": [],
     "emotes": {
-        "custom_test": "https://cdn.radiant.dj/rcs/icons/test_custom.png"
+    	"emote_name": null
     }
 }
